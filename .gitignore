@@ -65,3 +65,5 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+aws-crt-java/
+aws-iot-device-sdk-java-v2/
