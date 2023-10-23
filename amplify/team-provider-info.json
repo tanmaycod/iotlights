@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iotlights-dev-223222-authRole",
+      "UnauthRoleArn": "arn:aws:iam::718664347471:role/amplify-iotlights-dev-223222-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::718664347471:role/amplify-iotlights-dev-223222-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-iotlights-dev-223222-deployment",
+      "UnauthRoleName": "amplify-iotlights-dev-223222-unauthRole",
+      "StackName": "amplify-iotlights-dev-223222",
+      "StackId": "arn:aws:cloudformation:ap-south-1:718664347471:stack/amplify-iotlights-dev-223222/d21c6870-3cf3-11ed-afdc-0ad6a8baf74e",
+      "AmplifyAppId": "d1l3b0bis6x18d"
+    },
+    "categories": {
+      "auth": {
+        "iotlights93313a0b": {}
+      }
+    }
+  }
+}
